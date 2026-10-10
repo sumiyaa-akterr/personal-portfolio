@@ -1,35 +1,65 @@
-# SQA Portfolio Website
+# SQA Engineer Portfolio
 
-A responsive, single-page portfolio starter for an aspiring Software Quality Assurance Engineer. The projects section is intentionally a placeholder so you can add real work as you learn.
+Welcome to my Software Quality Assurance (SQA) portfolio! This repository contains the source code for my personal portfolio website, where I document my journey toward becoming an SQA Engineer and showcase my testing projects as I build them.
 
-## Preview locally
-1. Download and unzip `sqa-portfolio.zip`.
-2. Open `index.html` in a browser. (For the best editing workflow, open the folder in VS Code and use the Live Server extension.)
+## 🌐 About the Website
 
-## Personalize before publishing
-Open `index.html` and replace:
-- `Your Name` with your preferred display name
-- `your.email@example.com` with your contact email
-- The LinkedIn and GitHub links with your profile URLs
-- `YOUR NAME` in the footer
+The portfolio introduces my background, current learning focus, and approach to software quality. The projects section will be updated as I complete hands-on testing projects.
 
-You can also update the introductory copy to match your actual experience. The skills section describes areas you're building; change the labels as your confidence grows.
+## 🛠️ Technologies Used
 
-## Add projects as you complete them
-The Projects & Practice section currently explains that the portfolio is in progress. When you have real work to show, replace that placeholder with project cards. Good evidence includes:
-- Manual testing: test plan, test cases, execution results, and reproducible bug reports
-- API testing: Postman collection, assertions, and environment setup instructions
-- Automation: readable tests, setup instructions, screenshots/traces, and a report
-- Database testing: SQL queries and examples of data validation
+- **HTML5** — Website structure
+- **CSS3** — Styling and responsive layout
+- **JavaScript** — Interactive elements
 
-Only claim tools and skills you can comfortably discuss in an interview.
+## 🧪 Areas of Learning
 
-## Publish it so you have a shareable link
-The files are the website; a live public URL comes after you deploy them. An easy free option is GitHub Pages:
-1. Create/sign in to GitHub and make a new **public** repository (for example `sqa-portfolio`).
-2. Upload `index.html`, `style.css`, `script.js`, and this README to the repository root.
-3. In the repository, open **Settings → Pages**.
-4. Under build/deployment, choose **Deploy from a branch**, select `main` and `/(root)`, then save.
-5. After GitHub Pages finishes publishing, it will show your website URL in the Pages settings.
+I'm currently developing my skills in:
 
-Google Fonts requires an internet connection; the site itself is static and does not need a backend.
+- Manual Testing and Test Case Design
+- API Testing with Postman
+- UI Test Automation
+- Database Testing with SQL
+- Bug Reporting and Test Documentation
+
+## 📂 Project Structure
+
+```text
+personal-portfolio/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 🚀 Run Locally
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/sumiyaa-akterr/personal-portfolio.git
+   ```
+
+2. Open the project folder.
+3. Open `index.html` in your browser, or use the VS Code Live Server extension to preview the website.
+
+## 📌 Upcoming Updates
+
+The portfolio is a work in progress. Planned additions include:
+
+- Manual testing project with test cases and bug reports
+- API testing project with a Postman collection
+- UI automation project
+- SQL-based database testing project
+
+Each project will be added as I complete and document the work.
+
+## 📬 Contact
+
+- **GitHub:** [@sumiyaa-akterr](https://github.com/sumiyaa-akterr)
+- **LinkedIn:** Add your LinkedIn profile URL here
+- **Email:** Add your professional contact email here
+
+---
+
+*Learning, testing, and improving — one project at a time.*
